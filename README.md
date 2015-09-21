@@ -10,16 +10,10 @@ How to use
 2. Classname 'c' tells the browser that the element should be treated as a column
 3. Column widths for devices with a higher width than 768px should start with a 'd', for DESKTOP.
   *Example: d-2-5 (two-fifths)*
-
-
 4. The same rule goes for devices with a width under 768px. They should start with a 'm', for MOBILE.
   *Example: m-5-5 (five-fifths, or full width)*
-
-
 5. The full classname for a responsive column should look like '{column} d-{value}-{value} m-{value}-{value}'.
   *Example: 'c d-2-5 m-5-5'*
-
-
 6. Get it? Great! Install this simple CSS grid and be ready to give structure to your project in minutes
 
 Quick install
