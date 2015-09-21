@@ -6,7 +6,7 @@ This is a simple CSS grid with unique layouts options for devices with a screen 
 How to use
 -
 
-1. Add the classname 'r' to an element to let the browser know it is a row
+1. Add the classname 'r' to an element to let the browser know it is a row, rows contain one or more columns
 2. Classname 'c' tells the browser that the element should be treated as a column
 3. Column widths for devices with a higher width than 768px should start with a 'd', for DESKTOP. Example: d-2-5 (two-fifths)
 4. The same rule goes for devices with a width under 768px. They should start with a 'm', for MOBILE. Example: m-5-5 (five-fifths, or full width)
