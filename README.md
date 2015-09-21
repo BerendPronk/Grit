@@ -17,6 +17,6 @@ Quick install
 -
 
 1. Think where you want to use this grid for
-2. Take a look at the HTML file attatched to the .zip file
+2. Take a look at the HTML file attatched to the .zip file, for possibilities
 3. Copy the 'grit.min.css' file to your project and link it with your HTML
 4. You are ready to use this simple grid
